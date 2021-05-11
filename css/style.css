@@ -8,6 +8,7 @@
 
 .extension__start--button{
     margin-left: 16rem;
+    background-color: #34a853;
 }
 
 .extension__star--icon{
@@ -16,4 +17,8 @@
 
 .extension__star--button{
     text-decoration: none;
+}
+
+.modal-header{
+    background-color: #34a853;
 }
