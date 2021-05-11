@@ -1,7 +1,6 @@
-# Meet Auto Exit Bot Extension
-
 <p align="center"><a href="https://github.com/harshithva/meet-auto-exit-bot-extension" target="_blank" rel="noopener noreferrer"><img width="100" src="https://i.ibb.co/RDHb1Cy/icon-128.png" alt="Vue logo"></a></p>
 
+# Meet Auto Exit Bot Extension
 ## How to use ?
 + Click start button
 + Input the exiting count Ex: 2
