@@ -1,5 +1,7 @@
 # Meet Auto Exit Bot Extension
 
+<p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://ibb.co/ZMTX3hm" alt="Vue logo"></a></p>
+
 ## How to use ?
 + Click start button
 + Input the exiting count Ex: 2
