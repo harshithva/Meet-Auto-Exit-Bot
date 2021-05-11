@@ -6,7 +6,7 @@
 + Install the extension
 + Click start button
 + Input the exiting count Ex: 2
-+ First the bot will wait until members in meet reach count value
++ First the bot will wait until members in meet reach count value +1(Ex: 3)
 + Once meet has users greater than count it will start checking
 + If the people in meet is less than count, it will click end button.
 
