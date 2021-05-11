@@ -5,27 +5,61 @@
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
+    <link rel="stylesheet" href="./css/style.css">
+
 </head>
 
 <body>
-    <div class="modal-header">
-        <h5 class="modal-title">Meet auto exit bot</h5>
+    <div class="extension__body">
 
-    </div>
-    <div class="modal-body">
-        <p>Modal body text goes here.</p>
-        <div class="input-group mb-3">
-            <label>Enter exiting count</label>
-            <input id="countValue" type="text" class="form-control" placeholder="Enter exiting count" value="40">
+
+
+        <div class="modal-header">
+            <h5 class="modal-title">
+                <img src="./icon_128.png" alt="" class="logo">
+                Meet Auto Exit Bot
+            </h5>
+
         </div>
+        <div class="modal-body">
+            <!-- <h6>Current: <span id="currentCount"></span></h6> -->
+            <p>How it works?</p>
+            <ul>
+                <li>Input the exiting count.</li>
+                <li>First the bot will wait until members in meet reach count value.</li>
+                <li>Once meet has users greater than count it will start checking.</li>
+                <li>If the people in meet is less than count, it will click end button.</li>
+            </ul>
 
-    </div>
-    <div class="modal-footer">
-        <button type="button" id="startButton" class="btn btn-secondary">Start</button>
+            <div class="input-group mb-3">
+                <div class="row">
+                    <div class="col-12">
+                        <label>Enter exiting count</label>
+                    </div>
+                    <div class="col-12">
+                        <input id="count" type="text" class="form-control" placeholder="Enter exiting count" value="40">
+                    </div>
+                </div>
 
+
+            </div>
+
+        </div>
+        <div class="modal-footer">
+
+            <a href="https://github.com/harshithva/meet-auto-exit-bot-extension" target="_blank"
+                class="text-dark extension__star--button">
+                <img src="./img/icons8-star.gif" alt="" class="extension__star--icon mb-1">
+                Star</a>
+            <button type="button" id="startButton" class="btn btn-primary extension__start--button">Start</button>
+
+        </div>
     </div>
 
     <script src="popup.js"></script>
+
+
+
 </body>
 
 </html>
