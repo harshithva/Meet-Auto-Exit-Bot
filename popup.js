@@ -24,7 +24,8 @@ function start() {
         </div>`
         theParent.insertBefore(theKid, theParent.firstChild);
     }
-    update(`Waiting to reach more than ${count}`)
+
+    update(`Sit back and relax...Waiting to reach more than ${count}.`)
 
     function autoLeaveGoogleMeet() {
 
@@ -34,6 +35,9 @@ function start() {
             try {
                 window.document.querySelector(".FbBiwc").click(); //click the endcall btn on meet
                 // update(`You have exited successfully`)
+                // setTimeout(() => {
+                //     document.querySelector(".CRFCdf").innerHTML = "hello"
+                // }, 2000)
             } catch {
                 alert("ERROR2");
             }
