@@ -25,7 +25,7 @@ function start() {
         theParent.insertBefore(theKid, theParent.firstChild);
     }
 
-    update(`Sit back and relax...Waiting to reach more than ${count}.`)
+    update(`Sit back and relax...Waiting to reach more than ${count}`)
 
     function autoLeaveGoogleMeet() {
 
