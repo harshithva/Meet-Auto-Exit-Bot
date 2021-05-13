@@ -7,6 +7,7 @@
  <img src="https://img.shields.io/badge/Open-source-green">
  <img src="https://img.shields.io/chrome-web-store/rating/pcfoikkjgbmaknfjbnlcolpkaldeneil">
  <img src="https://img.shields.io/github/followers/harshithva?style=social">
+ <img src="https://img.shields.io/github/issues-raw/harshithva/Meet-Auto-Exit-Bot">
 </p>
 
 ### How to use ?
