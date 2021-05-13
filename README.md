@@ -5,6 +5,8 @@
 ### Chrome Extension
 <p align="center">
  <img src="https://img.shields.io/badge/Open-source-green">
+ <img src="https://img.shields.io/chrome-web-store/rating/pcfoikkjgbmaknfjbnlcolpkaldeneil">
+ <img src="https://img.shields.io/github/followers/harshithva?style=social">
 </p>
 
 ### How to use ?
