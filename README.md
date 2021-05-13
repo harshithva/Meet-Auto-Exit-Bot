@@ -3,6 +3,10 @@
 ## Meet Auto Exit Bot 
 
 ### Chrome Extension
+<p align="center">
+ <img src="https://img.shields.io/badge/Open-source-green">
+  
+</p>
 ### How to use ?
 + <a href="https://chrome.google.com/webstore/detail/meet-auto-exit-bot/pcfoikkjgbmaknfjbnlcolpkaldeneil">Install the extension</a>
 + Click start button
