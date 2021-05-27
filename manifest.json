@@ -1,7 +1,7 @@
 {
     "name": "Meet Auto Exit Bot",
     "description": "Exits meet based on number of people present.",
-    "version": "1.0",
+    "version": "1.1",
     "manifest_version": 3,
     "icons": {
         "128": "icon_128.png"
@@ -14,7 +14,6 @@
         "service_worker": "background.js"
     },
     "permissions": [
-        "storage",
         "activeTab",
         "scripting"
     ]
