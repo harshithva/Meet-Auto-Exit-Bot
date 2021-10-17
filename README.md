@@ -11,7 +11,7 @@
 
 ### How to use ?
 + <a href="https://chrome.google.com/webstore/detail/meet-auto-exit-bot/pcfoikkjgbmaknfjbnlcolpkaldeneil">Install the extension</a>
-+ Click start button
++ Click start button.
 + Input the exiting count Ex: 2
 + First the bot will wait until members in meet reach count value +1(Ex: 3)
 + Once meet has users greater than count it will start checking
