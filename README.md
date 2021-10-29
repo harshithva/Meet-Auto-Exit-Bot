@@ -31,7 +31,6 @@
 https://www.youtube.com/watch?v=J2VXeb7TbOY
 
 
-## Authors
 
 - [@harshithva](https://www.github.com/harshithva)
 
