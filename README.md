@@ -3,6 +3,14 @@
 ## Meet Auto Exit Bot 
 
 ### Chrome Extension
+
+## Features
+
+- Automatically exit from google meet based number of people present
+- Supports legacy and new version of google meet
+- Open source
+- No Ads
+
 <p align="center">
  <img src="https://img.shields.io/badge/Open-source-green">
  <img src="https://img.shields.io/chrome-web-store/rating/pcfoikkjgbmaknfjbnlcolpkaldeneil">
