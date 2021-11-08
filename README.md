@@ -10,7 +10,7 @@
  <img src="https://img.shields.io/github/issues-raw/harshithva/Meet-Auto-Exit-Bot">
 </p>
 
-## Features
+### Features
 
 - Automatically exit from google meet based number of people present
 - Supports legacy and new version of google meet
