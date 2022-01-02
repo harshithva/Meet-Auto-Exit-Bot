@@ -107,7 +107,7 @@ function start() {
                 update(`Checking for active members - ${parseInt(document.querySelector(".uGOf1d").innerText)}`)
                 if (parseInt(document.querySelector(".uGOf1d").innerText) < count) {
                     try {
-                        window.document.querySelector(".ftJPW").click();
+                        window.document.querySelector(".jh0Tpd").click();
                     } catch {
                         alert("ERROR G2-L");
                     }
