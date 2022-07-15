@@ -15,8 +15,7 @@
 - Automatically exit from google meet based number of people present
 - Supports legacy and new version of google meet
 - Open source
-- No Ads
-
+- No Ads.
 
 
 ### How to use ?
