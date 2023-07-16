@@ -2,8 +2,6 @@
 
 # Meet Auto Exit Bot - Chrome Extension
 
-![Meet Auto Exit Bot](https://github.com/your-username/your-repository/raw/main/images/meet-auto-exit-bot.png)
-
 Meet Auto Exit Bot is a Chrome extension that automates the process of exiting from Google Meet meetings based on the number of people present. It supports both the legacy and new versions of Google Meet and is open source with no ads.
 
 ## Features
