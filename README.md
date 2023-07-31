@@ -15,7 +15,7 @@ Meet Auto Exit Bot is a Chrome extension that automates the process of exiting f
 
 1. Install the Meet Auto Exit Bot extension from the Chrome Web Store.
 2. Click the start button on the extension.
-3. Input the desired exiting count (e.g., 2) - the bot will wait until the number of members in the meeting reaches the count value plus one (e.g., 3).
+3. Input the desired exiting count (e.g., 2) - the bot will wait until the number of members in the meeting reaches the count value plus one (e.g., 3)
 4. Once the meeting has users greater than the count value, the bot will start checking.
 5. If the number of people in the meeting is less than the count value, the bot will automatically click the end button to exit the meeting.
 
